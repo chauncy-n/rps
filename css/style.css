@@ -1,0 +1,13 @@
+header, section, footer{
+    width: 70%;
+    margin: auto;
+}
+p{
+    display: inline-block;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: inline-block;
+}
